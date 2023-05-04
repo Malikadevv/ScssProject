@@ -1,0 +1,133 @@
+<section id="answers">
+    <div class="container">
+        <div class="answers">
+            <div class="answers--desc">
+                <h1>ОСТАЛИСЬ ВОПРОСЫ?</h1>
+                <div class="answers--desc__img">
+                    <img src="img/guestion.svg" alt="">
+                </div>
+            </div>
+            <div class="answers--accordion">
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd1">
+                    <label for="accd1" class="answers--accordion__accordion--title">Что такое образовательная платформа Маргулана Сейсембаева? <i class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd2">
+                    <label for="accd2" class="answers--accordion__accordion--title">Чем отличаются мастер-классы по подписке от курсов Кайдзен? <i class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd3">
+                    <label for="accd3" class="answers--accordion__accordion--title title3">Почему в пакете "Месяц" (помесячная подписка) доступны только новые мастер-классы? <i class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd4">
+                    <label for="accd4" class="answers--accordion__accordion--title">Смогу ли я, уже купив месячную подписку, перейти на годовую? <i class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd5">
+                    <label for="accd5" class="answers--accordion__accordion--title">Как я могу получить доступ ко всем курсам Платформы Маргулана? <i class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd6">
+                    <label for="accd6" class="answers--accordion__accordion--title">А платформа обновляется? <i class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd7">
+                    <label for="accd7" class="answers--accordion__accordion--title">Могу ли я вернуть деньги? <i class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

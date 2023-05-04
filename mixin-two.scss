@@ -1,0 +1,27 @@
+
+// Alignment
+@mixin alignment {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+// Alignment center
+@mixin alignment-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// border and outline NONE
+@mixin b-and-o__none {
+  border: none;
+  outline: none;
+}
+
+// Sections title
+@mixin title {
+  font-weight: 700;
+  font-size: 48px;
+  color: $lightColor;
+}

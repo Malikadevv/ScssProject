@@ -1,0 +1,51 @@
+@mixin btn{
+  background: #0096C7;
+  border-radius: 10px;
+  font-weight: 500;
+  font-size: 18px;
+  color: #FFFFFF;
+  padding: 10px 30px;
+  cursor: pointer;
+  transition: .4s;
+  &:hover{
+    transform: scale(1.1);
+    border: 1px solid black;
+    background: rgba(26, 92, 255, 0.87);
+  }
+}
+
+@mixin df{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@mixin fr{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+@mixin good{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+@mixin between{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+@mixin mine{
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+  background: #2C3E50;
+  border-radius: 10px;
+  padding: 10px 10px;
+  transition: .4s;
+  &:hover{
+    transform: scale(1.1);
+    background: transparent;
+    color: #252a38;
+  }
+}

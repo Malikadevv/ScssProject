@@ -1,0 +1,62 @@
+section id=masterclass
+    div class=container
+        div class=masterclass
+            h1 class=masterclass--titleМАСТЕР-КЛАССЫh1
+            div class=masterclass--group
+                button class=masterclass--group__f--btnВсеbutton
+                button class=masterclass--group__s--btnРазвитиеbutton
+            div
+            div class=masterclass--blogs
+                div class=masterclass--blogs__blog
+                    div class=masterclass--blogs__blog--top
+                        button type=button class=masterclass--blogs__blog--top__btnРазвитиеbutton
+                        1 урок
+                    div
+                    h3 class=masterclass--blogs__blog--titleНетворкинг. Управление связямиh3
+                    p class=masterclass--blogs__blog--leadКак собрать вокруг себя людей, которые будут приближать вас к вашим целямp
+                    div class=masterclass--blogs__blog--group
+                        div class=masterclass--blogs__blog--group__img
+                            img src=imgcircle1.svg alt=
+                        div
+                        pspanДмитрий Карпиловскийspan br
+                            Катта бизнесмен
+                        p
+                    div
+                div
+                div class=masterclass--blogs__blog
+                    div class=masterclass--blogs__blog--top
+                        button type=button class=masterclass--blogs__blog--top__btnРазвитиеbutton
+                        1 урок
+                    div
+                    h3 class=masterclass--blogs__blog--titleНетворкинг. Управление связямиh3
+                    p class=masterclass--blogs__blog--leadКак собрать вокруг себя людей, которые будут приближать вас к вашим целямp
+                    div class=masterclass--blogs__blog--group
+                        div class=masterclass--blogs__blog--group__img
+                            img src=imgcircle1.svg alt=
+                        div
+                        pspanДмитрий Карпиловскийspan br
+                            Катта бизнесмен
+                        p
+                    div
+                div
+                div class=masterclass--blogs__blog
+                    div class=masterclass--blogs__blog--top
+                        button type=button class=masterclass--blogs__blog--top__btnРазвитиеbutton
+                        1 урок
+                    div
+                    h3 class=masterclass--blogs__blog--titleНетворкинг. Управление связямиh3
+                    p class=masterclass--blogs__blog--leadКак собрать вокруг себя людей, которые будут приближать вас к вашим целямp
+                    div class=masterclass--blogs__blog--group
+                        div class=masterclass--blogs__blog--group__img
+                            img src=imgcircle1.svg alt=
+                        div
+                        pspanДмитрий Карпиловскийspan br
+                            Катта бизнесмен
+                        p
+                    div
+                div
+            div
+            button class=masterclass--btnСмотреть все мастер-классыbutton
+        div
+    div
+section

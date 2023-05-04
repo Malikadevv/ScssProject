@@ -1,0 +1,58 @@
+<footer id="footer">
+    <div class="container">
+        <div class="footer">
+            <div class="footer--logo">
+                <img src="img/footerlogo.svg" alt="">
+            </div>
+            <div class="footer--blogs">
+                <div class="footer--blogs__blog">
+                    <h3>Motion web</h3>
+                    <a href="">Наши курсы</a>
+                    <a href="">Моушн клуб</a>
+                    <a href="">Путешествия</a>
+                </div>
+                <div class="footer--blogs__blog2">
+                    <h3>Связаться с нами</h3>
+                    <p>Если у вас возникли какие-либо
+                        вопросы, пожалуйста, напишите
+                        нам: motionweb312@gmail.com
+                        <a href="">г. Бишкек ул. Турусбекова 109/3</a>
+                    </p>
+                </div>
+            </div>
+            <div class="footer--icons">
+                <h3>Соцсети</h3>
+                <div class="footer--icons__blogs">
+                    <div class="footer--icons__blogs--blog">
+                        <i class="fa-brands fa-facebook-f"></i>
+                    </div>
+                    <div class="footer--icons__blogs--blog">
+                        <i class="fa-brands fa-instagram"></i>
+                    </div>
+                    <div class="footer--icons__blogs--blog">
+                        <i class="fa-brands fa-telegram"></i>
+                    </div>
+                    <div class="footer--icons__blogs--blog">
+                        <i class="fa-brands fa-youtube"></i>
+                    </div>
+                    <div class="footer--icons__blogs--blog">
+                        <i class="fa-brands fa-vk"></i>
+                    </div>
+                    <div class="footer--icons__blogs--blog">
+                        <i class="fa-brands fa-linkedin"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="footer--bottom">
+                <p>Авторские права © 2021 Motionweb.kg</p>
+                <div class="footer--bottom__group">
+                    <a href="https://www.google.com" target="_blank">Условия оказания  услуг Политика возврата</a>
+                    <div>
+                        <img src="img/visa.svg" alt="">
+                        <img src="img/mastercard.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

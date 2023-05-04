@@ -1,0 +1,453 @@
+<section id="courses">
+    <div class="container">
+        <div class="courses">
+            <div class="courses--group">
+                <h1 class="courses--group__title">КУРСЫ</h1>
+                <div class="courses--group__group">
+                    <div class="courses--group__group--blog">
+                        <i class="fa-solid fa-chevron-left"></i>
+                    </div>
+                    <div class="courses--group__group--blog">
+                        <i class="fa-solid fa-chevron-right"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="courses--blogs">
+                <div class="swiper mySwiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon1.svg" alt="">
+                                    <a href="">Курс</a>
+                                    <a href="">3 модуля</a>
+                                    <a href="">Новый</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Командообразование</h2>
+                                    <p>Как правильно строить команду и
+                                        эффективно ею управлять, чтобы
+                                        достигать все поставленные цели.
+                                    </p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon2.svg" alt="">
+                                    <a href="">Вебинар</a>
+                                    <a href="">1 урок</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Вебинар | 19 октября</h2>
+                                    <p>Старт - 19 октября в 16:00 (Киев) / 16:00 (Москва) / 19:00 (Астана)</p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon1.svg" alt="">
+                                    <a href="">Курс</a>
+                                    <a href="">3 модуля</a>
+                                    <a href="">Новый</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Командообразование</h2>
+                                    <p>Как правильно строить команду и
+                                        эффективно ею управлять, чтобы
+                                        достигать все поставленные цели.
+                                    </p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon1.svg" alt="">
+                                    <a href="">Курс</a>
+                                    <a href="">3 модуля</a>
+                                    <a href="">Новый</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Командообразование</h2>
+                                    <p>Как правильно строить команду и
+                                        эффективно ею управлять, чтобы
+                                        достигать все поставленные цели.
+                                    </p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon2.svg" alt="">
+                                    <a href="">Вебинар</a>
+                                    <a href="">1 урок</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Вебинар | 19 октября</h2>
+                                    <p>Старт - 19 октября в 16:00 (Киев) / 16:00 (Москва) / 19:00 (Астана)</p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon1.svg" alt="">
+                                    <a href="">Курс</a>
+                                    <a href="">3 модуля</a>
+                                    <a href="">Новый</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Командообразование</h2>
+                                    <p>Как правильно строить команду и
+                                        эффективно ею управлять, чтобы
+                                        достигать все поставленные цели.
+                                    </p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon1.svg" alt="">
+                                    <a href="">Курс</a>
+                                    <a href="">3 модуля</a>
+                                    <a href="">Новый</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Командообразование</h2>
+                                    <p>Как правильно строить команду и
+                                        эффективно ею управлять, чтобы
+                                        достигать все поставленные цели.
+                                    </p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon2.svg" alt="">
+                                    <a href="">Вебинар</a>
+                                    <a href="">1 урок</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Вебинар | 19 октября</h2>
+                                    <p>Старт - 19 октября в 16:00 (Киев) / 16:00 (Москва) / 19:00 (Астана)</p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon1.svg" alt="">
+                                    <a href="">Курс</a>
+                                    <a href="">3 модуля</a>
+                                    <a href="">Новый</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Командообразование</h2>
+                                    <p>Как правильно строить команду и
+                                        эффективно ею управлять, чтобы
+                                        достигать все поставленные цели.
+                                    </p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon1.svg" alt="">
+                                    <a href="">Курс</a>
+                                    <a href="">3 модуля</a>
+                                    <a href="">Новый</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Командообразование</h2>
+                                    <p>Как правильно строить команду и
+                                        эффективно ею управлять, чтобы
+                                        достигать все поставленные цели.
+                                    </p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon2.svg" alt="">
+                                    <a href="">Вебинар</a>
+                                    <a href="">1 урок</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Вебинар | 19 октября</h2>
+                                    <p>Старт - 19 октября в 16:00 (Киев) / 16:00 (Москва) / 19:00 (Астана)</p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon1.svg" alt="">
+                                    <a href="">Курс</a>
+                                    <a href="">3 модуля</a>
+                                    <a href="">Новый</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Командообразование</h2>
+                                    <p>Как правильно строить команду и
+                                        эффективно ею управлять, чтобы
+                                        достигать все поставленные цели.
+                                    </p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon1.svg" alt="">
+                                    <a href="">Курс</a>
+                                    <a href="">3 модуля</a>
+                                    <a href="">Новый</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Командообразование</h2>
+                                    <p>Как правильно строить команду и
+                                        эффективно ею управлять, чтобы
+                                        достигать все поставленные цели.
+                                    </p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon2.svg" alt="">
+                                    <a href="">Вебинар</a>
+                                    <a href="">1 урок</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Вебинар | 19 октября</h2>
+                                    <p>Старт - 19 октября в 16:00 (Киев) / 16:00 (Москва) / 19:00 (Астана)</p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="courses--blogs__blog">
+                                <div class="courses--blogs__blog--nav">
+                                    <img src="img/icon1.svg" alt="">
+                                    <a href="">Курс</a>
+                                    <a href="">3 модуля</a>
+                                    <a href="">Новый</a>
+                                </div>
+                                <div class="courses--blogs__blog--desc">
+                                    <h2>Командообразование</h2>
+                                    <p>Как правильно строить команду и
+                                        эффективно ею управлять, чтобы
+                                        достигать все поставленные цели.
+                                    </p>
+                                </div>
+                                <div class="courses--blogs__blog--group">
+                                    <a href="#">Подробнее</a>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </div>
+                                <div class="courses--blogs__blog--img">
+                                    <img src="img/person.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="courses--groups">
+                <div class="courses--groups__blog">
+                    <div class="courses--groups__blog--group">
+                        <img src="img/icon3.svg" alt="">
+                        Статья
+                    </div>
+                    <h2>Как определить инвестиционные риски? ТОП советов для их снижения</h2>
+                    <p>Какие факторы указывают на проблемные проекты?</p>
+                    <div class="courses--groups__blog--date">
+                        <span>26-окт.  2021</span>
+                        <span>Новое</span>
+                        <span>7 мин</span>
+                    </div>
+                    <div class="courses--groups__blog--team">
+                        <div class="courses--groups__blog--team__img">
+                            <img src="img/logodiv.svg" alt="">
+                        </div>
+                        <p><span>Команда Акылбеков Кубаныча</span><br>
+                            AkylbekySaid.kg
+                        </p>
+                    </div>
+                    <div class="courses--groups__blog--blogNew">
+                        <span>Новый</span>
+                    </div>
+                </div>
+                <div class="courses--groups__blog">
+                    <div class="courses--groups__blog--group">
+                        <img src="img/icon3.svg" alt="">
+                        Статья
+                    </div>
+                    <h2>Как определить инвестиционные риски? ТОП советов для их снижения</h2>
+                    <p>Какие факторы указывают на проблемные проекты?</p>
+                    <div class="courses--groups__blog--date">
+                        <span>26-окт.  2021</span>
+                        <span>Новое</span>
+                        <span>7 мин</span>
+                    </div>
+                    <div class="courses--groups__blog--team">
+                        <div class="courses--groups__blog--team__img">
+                            <img src="img/logodiv.svg" alt="">
+                        </div>
+                        <p><span>Команда Акылбеков Кубаныча</span><br>
+                            AkylbekySaid.kg
+                        </p>
+                    </div>
+                </div>
+                <div class="courses--groups__blog">
+                    <div class="courses--groups__blog--group">
+                        <img src="img/icon3.svg" alt="">
+                        Статья
+                    </div>
+                    <h2>Как определить инвестиционные риски? ТОП советов для их снижения</h2>
+                    <p>Какие факторы указывают на проблемные проекты?</p>
+                    <div class="courses--groups__blog--date">
+                        <span>26-окт.  2021</span>
+                        <span>Новое</span>
+                        <span>7 мин</span>
+                    </div>
+                    <div class="courses--groups__blog--team">
+                        <div class="courses--groups__blog--team__img">
+                            <img src="img/logodiv.svg" alt="">
+                        </div>
+                        <p><span>Команда Акылбеков Кубаныча</span><br>
+                            AkylbekySaid.kg
+                        </p>
+                    </div>
+                </div>
+                <div class="courses--groups__blog">
+                    <div class="courses--groups__blog--group">
+                        <img src="img/icon3.svg" alt="">
+                        Статья
+                    </div>
+                    <h2>Как определить инвестиционные риски? ТОП советов для их снижения</h2>
+                    <p>Какие факторы указывают на проблемные проекты?</p>
+                    <div class="courses--groups__blog--date">
+                        <span>26-окт.  2021</span>
+                        <span>Новое</span>
+                        <span>7 мин</span>
+                    </div>
+                    <div class="courses--groups__blog--team">
+                        <div class="courses--groups__blog--team__img">
+                            <img src="img/logodiv.svg" alt="">
+                        </div>
+                        <p><span>Команда Акылбеков Кубаныча</span><br>
+                            AkylbekySaid.kg
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <button type="button" class="courses--btn">Показать больше</button>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,40 @@
+<section id="form">
+    <div class="container">
+        <div class="form">
+            <div class="form--blog">
+                <div class="form--blog__desc">
+                    <h2>Подпишитесь сейчас за 19,00 $ / мес</h2>
+                    <p>И получите доступ к материалам и кейсам, а также к новым мастер-классам и Кайдзен школе</p>
+                </div>
+                <div class="form--blog__btns">
+                    <button class="form--blog__btns--first">Оформить подписку</button>
+                    <button class="form--blog__btns--second">Подробнее о пакетах</button>
+                </div>
+            </div>
+            <div class="form--group">
+                <div class="form--group__desc">
+                    <h1 class="form--group__desc--title">ПОМОЖЕМ В ВЫБОРЕ</h1>
+                    <p>Оставьте заявку и наш менеджер свяжется с вами и ответит на все ваши вопросы</p>
+                </div>
+                <form class="form--group__form" action="https://formspree.io/f/mpznnqqg" method="POST">
+                    <div class="form--group__form--blog">
+                        <label for="name">ФИО *</label>
+                        <input type="text" id="name" placeholder="Иван Петров" name="text">
+                    </div>
+                    <div class="form--group__form--blog">
+                        <label for="phone">Номер телефона *</label>
+                        <input type="tel" id="phone" placeholder="+996 550 01 22 08" name="number">
+                    </div>
+                    <div class="form--group__form--blog">
+                        <label for="email">E-mail *</label>
+                        <input type="email" id="email" placeholder="example@mail.com" name="email">
+                    </div>
+                    <div class="form--group__form--group">
+                        <p>Ваши данные надежно защищены и не будут переданы третьим лицам</p>
+                        <button type="submit">Отправить</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

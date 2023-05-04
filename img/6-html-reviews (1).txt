@@ -1,0 +1,232 @@
+<section id="reviews">
+    <div class="reviews">
+        <h1 class="reviews--title">Отзывы</h1>
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/revieewsimg1.svg" alt="">
+                        </div>
+                        <p>Да. Просто напишите нам в поддержку на почту –
+                            mail@margulan.info, указав причину возврата
+                            и номер карты с которой была оплата.
+                            Обратите внимание:</p>
+                        <div class="reviews--blog__group">
+                            <span>Алиса Аманбекова</span>
+                            Директор компании Avangard
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Олег Торбосов</span>
+                            CEO Whitewill
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg3.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Арманжан Байтасов</span>
+                            Катта бизнесмен
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/revieewsimg1.svg" alt="">
+                        </div>
+                        <p>Да. Просто напишите нам в поддержку на почту –
+                            mail@margulan.info, указав причину возврата
+                            и номер карты с которой была оплата.
+                            Обратите внимание:</p>
+                        <div class="reviews--blog__group">
+                            <span>Алиса Аманбекова</span>
+                            Директор компании Avangard
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Олег Торбосов</span>
+                            CEO Whitewill
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Олег Торбосов</span>
+                            CEO Whitewill
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg3.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Арманжан Байтасов</span>
+                            Катта бизнесмен
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/revieewsimg1.svg" alt="">
+                        </div>
+                        <p>Да. Просто напишите нам в поддержку на почту –
+                            mail@margulan.info, указав причину возврата
+                            и номер карты с которой была оплата.
+                            Обратите внимание:</p>
+                        <div class="reviews--blog__group">
+                            <span>Алиса Аманбекова</span>
+                            Директор компании Avangard
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/revieewsimg1.svg" alt="">
+                        </div>
+                        <p>Да. Просто напишите нам в поддержку на почту –
+                            mail@margulan.info, указав причину возврата
+                            и номер карты с которой была оплата.
+                            Обратите внимание:</p>
+                        <div class="reviews--blog__group">
+                            <span>Алиса Аманбекова</span>
+                            Директор компании Avangard
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Олег Торбосов</span>
+                            CEO Whitewill
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Олег Торбосов</span>
+                            CEO Whitewill
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/revieewsimg1.svg" alt="">
+                        </div>
+                        <p>Да. Просто напишите нам в поддержку на почту –
+                            mail@margulan.info, указав причину возврата
+                            и номер карты с которой была оплата.
+                            Обратите внимание:</p>
+                        <div class="reviews--blog__group">
+                            <span>Алиса Аманбекова</span>
+                            Директор компании Avangard
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Олег Торбосов</span>
+                            CEO Whitewill
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Олег Торбосов</span>
+                            CEO Whitewill
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    </div>
+</section>

@@ -1,0 +1,639 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+          integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+          crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
+          rel="stylesheet">
+    4
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+<header id="header">
+    <div class="container">
+        <div class="header">
+            <div class="header--logo">
+                <a href="index.html" target="_blank"><img src="img/logo.svg" alt=""></a>
+            </div>
+            <nav class="header--nav">
+                <a href="our-courses.html" target="_blank" class="header--nav__item">Наши курсы</a>
+                <a href="#" target="_blank" class="header--nav__item">Моушн клуб</a>
+                <a href="#" target="_blank" class="header--nav__item">Путешествия</a>
+            </nav>
+            <div class="header--group">
+                <select>
+                    <option>RU</option>
+                    <option>ENG</option>
+                    <option>KG</option>
+                    <option>TR</option>
+                    <option>UZB</option>
+                </select>
+                <button type="button" class="header--group__btn">Войти</button>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section id="hero--inner">
+    <div class="container">
+        <div class="hero--inner">
+            <div class="hero--inner__desc">
+                <span><img src="img/course.svg" alt=""> Курс</span>
+                <div class="hero--inner__desc--group">
+                    <div class="hero--inner__desc--group__left">
+                        <h1>Командообразование</h1>
+                        <p>Как правильно строить команду и эффективно ею управлять, чтобы достигать все поставленные
+                            цели.</p>
+                    </div>
+                    <div class="hero--inner__desc--group__right">
+                        <h3>В курс входит</h3>
+                        <p>3 модуля</p>
+                        <p>43 материала *</p>
+                    </div>
+                </div>
+                <buton class="hero--inner__desc--btn">Зарегистрироваться</buton>
+                <p>Открыта регистрация на курс по самой низкой цене 425,00 $</p>
+            </div>
+            <div class="hero--inner__bg">
+                <iframe src="https://www.youtube.com/embed/nTc6rin8lPI" title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="about--course">
+    <div class="container">
+        <div class="about--course">
+            <h1 class="about--course__title">О КУРСЕ</h1>
+            <p>Достижение результата зависит от умения правильно строить команду и эффективно ею управлять.</p>
+            <br>
+            <p>И если вы хотите достичь успеха в карьере, бизнесе, своих проектах, значит, время переходить от
+                прокачивания личной эффективности к изучению организации и работы эффективной команды.</p>
+            <br>
+            <p>Мой авторский курс “Командообразование” поможет вам освоить и внедрить методы создания и работы таких
+                команд, которые приносят результат, потому что достижение успеха - это командный вид спорта.</p>
+            <br>
+            <p>И в работе, и в жизни выдающихся результатов достигает только тот, кто умеет окружать себя выдающимися
+                людьми. Ваши достижения будут настолько же выдающимися, насколько выдающейся будет ваша команда. А
+                команда будет настолько же выдающейся, насколько выдающимся будет её лидер.</p>
+            <br>
+            <p>Команда - это самая эффективная форма организации коллективного труда. Не бывает команды без
+                эффективности. Если то, что вы называете командой, неэффективна, то скорее всего, это не команда, а
+                группа людей, которым чего-то не хватает для того, чтобы стать командой. Сама природа создания и
+                функционирования команды, подразумевает ее эффективность.</p>
+            <div class="about--course__blog">
+                <h2 class="about--course__blog--title">Этот курс будет особо актуален для тех, кто хочет:</h2>
+                <ul>
+                    <li>освоить навык создания эффективных команд</li>
+                    <li>освоить принципы построения эффективных взаимоотношений в любой команде или группе.</li>
+                    <li>сделать работу с командой плодотворной и легкой</li>
+                    <li>значительно повысить эффективность своего бизнеса/проекта/отдела и улучшить взаимоотношения
+                        в коллективе
+                    </li>
+                    <li>освоить специальные способы и приемы чтобы проявить свои лидерские качества</li>
+                    <li>получать стабильный качественный результат от работы с командой</li>
+                    <li>оценить состояние дел в своем потенциальном или уже существующем бизнесе или проекте более
+                        конструктивно и прагматично
+                    </li>
+                    <li>значительно сократить количество ошибок в работе с командой.</li>
+                </ul>
+            </div>
+            <div class="about--course__blog">
+                <h2 class="about--course__blog--title">В этом курсе мы рассмотрим:</h2>
+                <ul>
+                    <li>Что такое команда, какие бывают виды команд, для чего и как они создаются, что объединяет людей
+                        и держит в команде.
+                    </li>
+                    <li>Лидерство - это врожденное качество или его можно приобрести?</li>
+                    <li>Какие есть методы повышения эффективности команды.</li>
+                    <li>Почему именно работа в команде в разы увеличивает результат.</li>
+                    <li>Как подбирать правильных людей в команду</li>
+                    <li>Как их обучать и продвигать по карьерной лестнице.</li>
+                    <li>Почему люди порой не хотят меняться и причины невыполнения подчиненными ваших поручений.</li>
+                    <li> Как правильно и своевременно увольнять подчиненных</li>
+                </ul>
+            </div>
+            <div class="about--course__blog">
+                <h2 class="about--course__blog--title">Регистрируйтесь на курс, стройте эффективные команды и пусть
+                    удача сопутствует вам на этом пути!</h2>
+            </div>
+            <p class="about--course__bottom--parag">* - материалы включают уроки, тесты и задания. Некоторые материалы
+                могут быть недоступны при самостоятельном обучении. Получить к ним доступ можно только при обучении с
+                коуч-трекером.</p>
+            <div class="about--course__btns">
+                <button type="button" class="about--course__btns--first">Зарегистрироваться</button>
+                <a href="command-education.html" target="_blank">Смотреть программу</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="course--program">
+    <div class="container">
+        <div class="course--program">
+            <h1 class="course--program__title">ПРОГРАММА КУРСА</h1>
+            <div class="course--program__blog">
+                <div class="course--program__blog--accordion">
+                    <button type="button" class="course--program__blog--accordion__btn"> Модуль 1</button>
+                    <input type="checkbox" id="accdOne">
+                    <label for="accdOne" class="course--program__blog--accordion__title">Команда и лидерство в ней <i
+                            class="fa fa-chevron-down"></i></label>
+                    <div class="course--program__blog--accordion__wrap">
+                        <ul>
+                            <li><a href="#" target="_blank">Урок 12. Жизненные этапы команды</a></li>
+                            <li><a href="#" target="_blank">Урок 13. Построение команды</a></li>
+                            <li><a href="#" target="_blank">Урок 14. Первоначальные действия при формировании
+                                команды</a></li>
+                            <li><a href="#" target="_blank">Урок 15. Почему так важно подбирать в команду лучших
+                                людей</a></li>
+                            <li><a href="#" target="_blank">Урок 16. Правильные люди</a></li>
+                            <li><a href="#" target="_blank">Урок 17. Критерии правильных людей</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="course--program__blog--accordion">
+                    <button type="button" class="course--program__blog--accordion__btn"> Модуль 1</button>
+                    <input type="checkbox" id="accdTwo">
+                    <label for="accdTwo" class="course--program__blog--accordion__title">Подбор сотрудников и управление
+                        командой <i class="fa fa-chevron-down"></i></label>
+                    <div class="course--program__blog--accordion__wrap">
+                        <ul>
+                            <li><a href="#" target="_blank">Урок 12. Жизненные этапы команды</a></li>
+                            <li><a href="#" target="_blank">Урок 13. Построение команды</a></li>
+                            <li><a href="#" target="_blank">Урок 14. Первоначальные действия при формировании
+                                команды</a></li>
+                            <li><a href="#" target="_blank">Урок 15. Почему так важно подбирать в команду лучших
+                                людей</a></li>
+                            <li><a href="#" target="_blank">Урок 16. Правильные люди</a></li>
+                            <li><a href="#" target="_blank">Урок 17. Критерии правильных людей</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="course--program__blog--accordion">
+                    <button type="button" class="course--program__blog--accordion__btn"> Модуль 1</button>
+                    <input type="checkbox" id="accdThree">
+                    <label for="accdThree" class="course--program__blog--accordion__title">Команда и лидерство в ней <i
+                            class="fa fa-chevron-down"></i></label>
+                    <div class="course--program__blog--accordion__wrap">
+                        <ul>
+                            <li><a href="#" target="_blank">Урок 12. Жизненные этапы команды</a></li>
+                            <li><a href="#" target="_blank">Урок 13. Построение команды</a></li>
+                            <li><a href="#" target="_blank">Урок 14. Первоначальные действия при формировании
+                                команды</a></li>
+                            <li><a href="#" target="_blank">Урок 15. Почему так важно подбирать в команду лучших
+                                людей</a></li>
+                            <li><a href="#" target="_blank">Урок 16. Правильные люди</a></li>
+                            <li><a href="#" target="_blank">Урок 17. Критерии правильных людей</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="course--program__btns">
+                <button class="course--program__btns--first">Зарегистрироваться</button>
+                <button class="course--program__btns--second">Чему я научусь</button>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="blogs">
+    <div class="container">
+        <div class="blogs">
+            <div class="blogs--blog">
+                <div class="blogs--blog__square">
+                    <img src="img/blogs1.svg" alt="">
+                </div>
+                <h3>43 материала *</h3>
+                <p>Только полезная информация, никакой воды. Применяйте эти знания первыми!</p>
+            </div>
+            <div class="blogs--blog">
+                <div class="blogs--blog__square">
+                    <img src="img/blogs2.svg" alt="">
+                </div>
+                <h3>100% эксклюзив</h3>
+                <p> Курс записан эксклюзивно для нашей платформы</p>
+            </div>
+            <div class="blogs--blog">
+                <div class="blogs--blog__square">
+                    <img src="img/blog3.svg" alt="">
+                </div>
+                <h3>В любое время, в любом месте</h3>
+                <p>Занимайтесь как вам удобно и где угодно, на своем мобильном или компьютере</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="group">
+    <div class="container">
+        <div class="group">
+            <h1 class="group--title">НА КУРСЕ ВЫ НАУЧИТЕСЬ</h1>
+            <div class="group--desc">
+                <div class="group--desc__blog">
+                    <i class="fa-solid fa-arrow-right-long"></i>
+                    <p>Анализировать и устранять типичные ошибки руководителей в управлении командой</p>
+                </div>
+                <div class="group--desc__blog">
+                    <i class="fa-solid fa-arrow-right-long"></i>
+                    <p>Внедрять специальные приемы работы с людьми и командой</p>
+                </div>
+                <div class="group--desc__blog">
+                    <i class="fa-solid fa-arrow-right-long"></i>
+                    <p>Создавать команду и эффективно ею управлять в любом проекте</p>
+                </div>
+                <div class="group--desc__blog">
+                    <i class="fa-solid fa-arrow-right-long"></i>
+                    <p>Правильно прогнозировать и масштабировать результат работы команды</p>
+                </div>
+                <div class="group--desc__blog">
+                    <i class="fa-solid fa-arrow-right-long"></i>
+                    <p>Правильно подходить к вопросам увольнения и продвижения по карьерной лестнице</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="margulan">
+    <div class="container">
+        <div class="margulan">
+            <span>КУРС ВЕДЕТ</span>
+            <h1>МАРГУЛАН СЕЙСЕМБАЕВ</h1>
+            <p>Бизнесмен, инвестор, исследователь жизни и путешественник</p>
+            <div class="margulan--desc">
+                <p>Прошел путь из чабанов в миллиардеры.</p>
+                <p>Опытный стратег и инвестор.</p>
+                <p>Неформальный лидер общественных движений и культурных акций.</p>
+                <p>Входит в ТОП-50 самых влиятельных бизнесменов Казахстана по версии Forbes</p>
+            </div>
+            <div class="margulan--bg">
+                <img src="img/Margulan.png" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="coach">
+    <div class="container">
+        <div class="coach">
+            <h1 class="coach--title">ПРЕИМУЩЕСТВА ОБУЧЕНИЯ С КОУЧ-ТРЕКЕРОМ</h1>
+            <div class="coach--blogs">
+                <div class="coach--blogs__blog">
+                    <span class="coach--blogs__blog--number">1</span>
+                    <h3>Сопровождение коуч-трекера</h3>
+                    <p>Путь с проводником в 2 раза легче и быстрее - потому на весь период обучения тебя б удет сопровождать опытный коуч-трекер</p>
+                </div>
+                <div class="coach--blogs__blog">
+                    <span class="coach--blogs__blog--number">2</span>
+                    <h3>Специальная система домашних заданий</h3>
+                    <p>Уникальная система заданий
+                        и тестов поможет намного
+                        эффективно усвоить ценные
+                        навыки и знания и применить
+                        их уже во время обучения</p>
+                </div>
+                <div class="coach--blogs__blog">
+                    <span class="coach--blogs__blog--number">3</span>
+                    <h3>Помощь куратора и ответы на вопросы</h3>
+                    <p>Все задания будут проверять
+                        твой куратор и давать
+                        обратную связь по каждому
+                        из них. В любой момент ты
+                        сможешь получить ответы
+                        на свои вопросы</p>
+                </div>
+                <div class="coach--blogs__blog">
+                    <span class="coach--blogs__blog--number">4</span>
+                    <h3>Закрытый чат с единомышленниками</h3>
+                    <p>Путь с проводником в 2 раза
+                        легче и быстрее - потому на
+                        весь период обучения тебя б
+                        удет сопровождать опытный
+                        коуч-трекер</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="reviews">
+    <div class="reviews">
+        <h1 class="reviews--title">СТУДЕНТЫ О КУРСЕ</h1>
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/revieewsimg1.svg" alt="">
+                        </div>
+                        <p>Да. Просто напишите нам в поддержку на почту –
+                            mail@margulan.info, указав причину возврата
+                            и номер карты с которой была оплата.
+                            Обратите внимание:</p>
+                        <div class="reviews--blog__group">
+                            <span>Алиса Аманбекова</span>
+                            Директор компании Avangard
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Олег Торбосов</span>
+                            CEO Whitewill
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg3.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Арманжан Байтасов</span>
+                            Катта бизнесмен
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/revieewsimg1.svg" alt="">
+                        </div>
+                        <p>Да. Просто напишите нам в поддержку на почту –
+                            mail@margulan.info, указав причину возврата
+                            и номер карты с которой была оплата.
+                            Обратите внимание:</p>
+                        <div class="reviews--blog__group">
+                            <span>Алиса Аманбекова</span>
+                            Директор компании Avangard
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Олег Торбосов</span>
+                            CEO Whitewill
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="reviews--blog">
+                        <div class="reviews--blog__img">
+                            <img src="img/reviewsimg.svg" alt="">
+                        </div>
+                        <p>Margulan.info – это уникальная экосистема и персональная
+                            социальная сеть, которая соединяет уникальный опыт
+                            Маргулана с новейшими образовательными практиками и
+                            возможностями открытой коммуникации как с Маргуланом
+                            так и с другими участниками.</p>
+                        <div class="reviews--blog__group">
+                            <span>Олег Торбосов</span>
+                            CEO Whitewill
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</section>
+
+<section id="answers">
+    <div class="container">
+        <div class="answers">
+            <div class="answers--desc">
+                <h1>ОСТАЛИСЬ ВОПРОСЫ?</h1>
+                <div class="answers--desc__img">
+                    <img src="img/guestion.svg" alt="">
+                </div>
+            </div>
+            <div class="answers--accordion">
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd1">
+                    <label for="accd1" class="answers--accordion__accordion--title">Что такое образовательная платформа
+                        Маргулана Сейсембаева? <i class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd2">
+                    <label for="accd2" class="answers--accordion__accordion--title">Чем отличаются мастер-классы по
+                        подписке от курсов Кайдзен? <i class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd3">
+                    <label for="accd3" class="answers--accordion__accordion--title title3">Почему в пакете "Месяц"
+                        (помесячная подписка) доступны только новые мастер-классы? <i
+                                class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd4">
+                    <label for="accd4" class="answers--accordion__accordion--title">Смогу ли я, уже купив месячную
+                        подписку, перейти на годовую? <i class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd5">
+                    <label for="accd5" class="answers--accordion__accordion--title">Как я могу получить доступ ко всем
+                        курсам Платформы Маргулана? <i class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd6">
+                    <label for="accd6" class="answers--accordion__accordion--title">А платформа обновляется? <i
+                            class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers--accordion__accordion">
+                    <input type="checkbox" id="accd7">
+                    <label for="accd7" class="answers--accordion__accordion--title">Могу ли я вернуть деньги? <i
+                            class="fa fa-chevron-down"></i></label>
+                    <div class="answers--accordion__accordion--wrap">
+                        <div>
+                            <p>
+                                Margulan.info – это уникальная экосистема и персональная социальная
+                                сеть, которая соединяет уникальный опыт Маргулана с новейшими
+                                образовательными практиками и возможностями открытой коммуникации
+                                как с Маргуланом так и с другими участниками. Вы получаете полезный
+                                и практический контент, который вдохновляет, дает новые инструменты
+                                и навыки для выхода на новый уровень в вашей карьере, бизнесе и
+                                личной эффективности.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer id="footer">
+    <div class="container">
+        <div class="footer">
+            <div class="footer--logo">
+                <img src="img/footerlogo.svg" alt="">
+            </div>
+            <div class="footer--blogs">
+                <div class="footer--blogs__blog">
+                    <h3>Motion web</h3>
+                    <a href="">Наши курсы</a>
+                    <a href="">Моушн клуб</a>
+                    <a href="">Путешествия</a>
+                </div>
+                <div class="footer--blogs__blog2">
+                    <h3>Связаться с нами</h3>
+                    <p>Если у вас возникли какие-либо
+                        вопросы, пожалуйста, напишите
+                        нам: motionweb312@gmail.com
+                        <a href="">г. Бишкек ул. Турусбекова 109/3</a>
+                    </p>
+                </div>
+            </div>
+            <div class="footer--icons">
+                <h3>Соцсети</h3>
+                <div class="footer--icons__blogs">
+                    <div class="footer--icons__blogs--blog">
+                        <i class="fa-brands fa-facebook-f"></i>
+                    </div>
+                    <div class="footer--icons__blogs--blog">
+                        <i class="fa-brands fa-instagram"></i>
+                    </div>
+                    <div class="footer--icons__blogs--blog">
+                        <i class="fa-brands fa-telegram"></i>
+                    </div>
+                    <div class="footer--icons__blogs--blog">
+                        <i class="fa-brands fa-youtube"></i>
+                    </div>
+                    <div class="footer--icons__blogs--blog">
+                        <i class="fa-brands fa-vk"></i>
+                    </div>
+                    <div class="footer--icons__blogs--blog">
+                        <i class="fa-brands fa-linkedin"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="footer--bottom">
+                <p>Авторские права © 2021 Motionweb.kg</p>
+                <div class="footer--bottom__group">
+                    <a href="https://www.google.com" target="_blank">Условия оказания услуг Политика возврата</a>
+                    <div>
+                        <img src="img/visa.svg" alt="">
+                        <img src="img/mastercard.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<header id="header">
+    <div class="container">
+        <div class="header">
+            <div class="header--logo">
+                <a href="#">
+                    <img src="img/logo.svg" alt="">
+                </a>
+            </div>
+            <nav class="header--nav">
+                <a href="our-courses.html" target="_blank" class="header--nav__item">Наши курсы</a>
+                <a href="#" class="header--nav__item">Моушн клуб</a>
+                <a href="#" class="header--nav__item">Путешествия</a>
+            </nav>
+            <div class="header--group">
+                <select>
+                    <option>RU</option>
+                    <option>ENG</option>
+                    <option>KG</option>
+                    <option>TR</option>
+                    <option>UZB</option>
+                </select>
+                <button type="button" class="header--group__btn">Войти</button>
+            </div>
+        </div>
+    </div>
+</header>

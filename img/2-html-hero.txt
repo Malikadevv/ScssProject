@@ -1,0 +1,12 @@
+<section id="hero">
+    <div class="hero">
+            <div class="hero--desc">
+                <p>ОБРАЗОВАТЕЛЬНАЯ ПЛАТФОРМА</p>
+                <h1>MOTION WEB ACADEMY</h1>
+                <button class="hero--desc__btn">Присоединиться</button>
+            </div>
+            <div class="hero--bg">
+                <img src="img/herologo.png" alt="">
+            </div>
+        </div>
+</section>

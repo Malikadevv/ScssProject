@@ -1,0 +1,124 @@
+// footer
+#footer {
+  .footer {
+    @include alignment;
+    align-items: start;
+    flex-wrap: wrap;
+    padding-bottom: 40px;
+
+    &--logo {
+      width: 12%;
+    }
+    &--blogs {
+      @include alignment;
+      align-items: start;
+      width: 50%;
+
+      &__blog {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        row-gap: 18px;
+
+        h3 {
+          font-weight: 700;
+          font-size: 18px;
+          color: $lightColor;
+        }
+        a {
+          font-weight: 400;
+          font-size: 14px;
+          color: #9099A3;
+        }
+        p {
+          font-weight: 400;
+          font-size: 14px;
+          color: #9099A3;
+
+          a {
+            font-weight: 400;
+            font-size: 14px;
+            color: #9099A3;
+          }
+        }
+      }
+      &__blog2 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        row-gap: 18px;
+
+        h3 {
+          font-weight: 700;
+          font-size: 18px;
+          color: $lightColor;
+        }
+        p {
+          font-weight: 400;
+          font-size: 14px;
+          color: #9099A3;
+
+          a {
+            font-weight: 400;
+            font-size: 14px;
+            color: #9099A3;
+          }
+        }
+      }
+    }
+    &--icons {
+      width: 14%;
+      display: flex;
+      flex-direction: column;
+      align-items: start;
+      row-gap: 18px;
+
+      h3 {
+        font-weight: 700;
+        font-size: 18px;
+        color: $lightColor;
+      }
+      &__blogs {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+
+        &--blog {
+          @include alignment-center;
+          width: 30px;
+          height: 30px;
+          border-radius: 50%;
+          background: #DADADA;
+        }
+      }
+    }
+    &--bottom {
+      @include alignment;
+      width: 100%;
+      margin-top: 80px;
+
+      p {
+        font-weight: 400;
+        font-size: 9px;
+        color: #9099A3;
+      }
+      &__group {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+
+        a {
+          font-weight: 400;
+          font-size: 9px;
+          text-decoration-line: underline;
+          color: #9099A3;
+        }
+        div {
+          display: flex;
+          align-items: center;
+          gap: 10px;
+        }
+      }
+    }
+  }
+}
